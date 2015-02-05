@@ -1,0 +1,4 @@
+
+Running:
+
+    crystal spec
